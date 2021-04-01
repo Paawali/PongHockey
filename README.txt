@@ -8,8 +8,8 @@ and
 $ pip list
 Package                   Version
 ------------------------- -----------
-pygame                    2.0.1
-pymunk                    5.5.0
+pygame                    1.9.6
+pymunk                    5.6.0
 
 Music by: mathgrant, https://freemusicarchive.org/music/mathgrant/
 {
