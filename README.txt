@@ -8,8 +8,8 @@ and
 $ pip list
 Package                   Version
 ------------------------- -----------
-pygame                    2.0.1
-pymunk                    5.6.0
+pygame                    1.9.6 (newer versions don't work with pygame.mixer, says missing dll file while trying to play menu.mp3, if you kept updating, you're prob fine) 
+pymunk                    5.6.0 or newer
 
 Music by: mathgrant, https://freemusicarchive.org/music/mathgrant/
 {
