@@ -8,10 +8,10 @@ and
 $ pip list
 Package                   Version
 ------------------------- -----------
-pygame                    *1.9.6 
+pygame                    1.9.6 
 pymunk                    *5.6.0
 
-*these versions seem to be very specific, tested with updated ones, issues arise.
+*version seem to be very specific, tested with updated ones, issues arise.
 
 Music by: mathgrant, https://freemusicarchive.org/music/mathgrant/
 {
