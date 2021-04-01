@@ -2,14 +2,16 @@ PongHockey
 (c) Paawali 2018-21
 ---
 
-Requires python 3.x
+made with python 3.7 
 and
 
 $ pip list
 Package                   Version
 ------------------------- -----------
-pygame                    1.9.6 (newer versions don't work with pygame.mixer, says missing dll file while trying to play menu.mp3, if you kept updating, you're prob fine) 
-pymunk                    5.6.0 or newer
+pygame                    1.9.6 
+pymunk                    5.6.0
+
+*these versions seem to be very specific, tested with updated ones, issues arise.
 
 Music by: mathgrant, https://freemusicarchive.org/music/mathgrant/
 {
